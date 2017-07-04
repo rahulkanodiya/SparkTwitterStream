@@ -1,0 +1,21 @@
+[0m[[0minfo[0m] [0mPackaging /home/rahul/sparkApplicationsPractice/TwitterStream/target/scala-2.11/twitter-stream_2.11-1.0.jar ...[0m
+[0m[[0mdebug[0m] [0mInput file mappings:[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$$anonfun$main$1$$anonfun$apply$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rahul/sparkApplicationsPractice/TwitterStream/target/scala-2.11/classes/TwitterStream$$anonfun$main$1$$anonfun$apply$2.class[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rahul/sparkApplicationsPractice/TwitterStream/target/scala-2.11/classes/TwitterStream$$anonfun$1$$anonfun$apply$1.class[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rahul/sparkApplicationsPractice/TwitterStream/target/scala-2.11/classes/TwitterStream$.class[0m
+[0m[[0mdebug[0m] [0m	log4j.properties[0m
+[0m[[0mdebug[0m] [0m	  /home/rahul/sparkApplicationsPractice/TwitterStream/target/scala-2.11/classes/log4j.properties[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rahul/sparkApplicationsPractice/TwitterStream/target/scala-2.11/classes/TwitterStream$$anonfun$1.class[0m
+[0m[[0mdebug[0m] [0m	TwitterStream.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rahul/sparkApplicationsPractice/TwitterStream/target/scala-2.11/classes/TwitterStream.class[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rahul/sparkApplicationsPractice/TwitterStream/target/scala-2.11/classes/TwitterStream$$anonfun$main$1.class[0m
+[0m[[0mdebug[0m] [0m	twitter4j.properties[0m
+[0m[[0mdebug[0m] [0m	  /home/rahul/sparkApplicationsPractice/TwitterStream/target/scala-2.11/classes/twitter4j.properties[0m
+[0m[[0mdebug[0m] [0m	TwitterStream$$anonfun$2.class[0m
+[0m[[0mdebug[0m] [0m	  /home/rahul/sparkApplicationsPractice/TwitterStream/target/scala-2.11/classes/TwitterStream$$anonfun$2.class[0m
+[0m[[0minfo[0m] [0mDone packaging.[0m
