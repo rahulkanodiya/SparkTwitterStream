@@ -1,5 +1,6 @@
-# SparkTwitterStream
-Sample Spark application to fetch twitter stream based on few specified tags
+# Spark Twitter Stream Application
+
+A sample Spark application to fetch twitter stream based on a few specified tags.
 
 To run, open a terminal and execute below commands:
 $SPARK_HOME/bin/spark-submit --master local[2] --packages org.apache.bahir:spark-streaming-twitter_2.11:2.0.1 
